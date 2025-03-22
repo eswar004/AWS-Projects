@@ -69,9 +69,3 @@ Modify the `listeners.json` manifest file to match your bucket name:
 
 ## Conclusion
 AWS QuickSight seamlessly integrates with Amazon S3, offering scalable and powerful data visualization. Experiment with different datasets and features to maximize insights.
-
-
-   ```
-
-
-
