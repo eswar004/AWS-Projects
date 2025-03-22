@@ -3,6 +3,9 @@
 ## Introduction
 In today’s data-driven world, turning raw data into actionable insights is crucial. AWS QuickSight, when integrated with Amazon S3, provides powerful visualization capabilities. This guide walks through setting up AWS QuickSight with S3, uploading datasets, and creating compelling visualizations.
 
+## Architecture
+![architecture ](images/architecture.png)
+
 ## Prerequisites
 Before getting started, ensure you have the following:
 - An **AWS Account** (Free-Tier available)
